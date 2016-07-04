@@ -27,3 +27,5 @@ In de whitepaper, die eind 2016 klaar moet zijn, verwerken we onze inspiraties o
 
 
 ## English version
+### Intervention-driven exchange of (only) the right information at the right time for the rigth decision, regarding the right person.
+

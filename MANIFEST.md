@@ -23,3 +23,5 @@ Martijn Veening
 Lykle de Vries
 
 ## English version
+### Intervention-driven exchange of (only) the right information at the right time for the rigth decision, regarding the right person.
+

@@ -79,7 +79,7 @@ Medical professionals use the platform to request attributes of the patient, ide
 #Example
 
   - the doctor is authenticated and authorized to request the data (within a defined scope);
-  - the patient can identified using a (temporary) id;
-  - the request can be 'MRI possible';
+  - the patient can be identified using a (temporary) id;
+  - the request can be 'Is MRI possible (for this patient)?';
   - the result can be simple answers with metadata (age / quality of the source): yes / unclear / no.
 
